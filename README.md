@@ -153,21 +153,15 @@ This result is pretty good, so I will use it as the final model to do the test.
 The performance on training and test data are:
 
 Final model for train data:
-confusion matrix: 
- [[2134    7]
- [  43  315]]
 accuracy_score:  0.98
 recall_score:  0.88
 f1_score:  0.926
-
+![figure of confmat_train](figures/clffinal_confmattrain.png)
 Final model for test data:
-confusion matrix: 
- [[695  14]
- [ 33  92]]
 accuracy_score:  0.944
 recall_score:  0.736
 f1_score:  0.797
-
+![figure of confmat_test](figures/clffinal_confmattest.png)
 and the feature importance for the final model is
 
 ![figure of clsfinal_featimport](figures/clffinal_feat_import.png)
