@@ -15,7 +15,7 @@ Based on the classification results and features analysis, some suggestions rega
 * Q: What business problem(s) will this Data Science project solve for the organization?
 * A: 1) Who will be stick on the company and who will stop doing business with the company based on data analysis
        and classification models performed.
-*    2) Based on identified patterns, suggestions in different aspects could be given to the company for keeping 
+     2) Based on identified patterns, suggestions in different aspects could be given to the company for keeping 
         the customers stick on the company
 
 
